@@ -1,6 +1,6 @@
-# hello-world
+# Jakbaraliyeva
 
-Hi Humans!
+Salom barchaga!
 
-Dudona432 here, i like Node.js and coffeescript (that's what I'm made of!).
+Dudona432 here, sizni github programmasi doirasga taklif qilaman.
 I have no time to fight with egos and sall minds
